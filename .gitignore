@@ -1,8 +1,8 @@
 node_modules
 dist
 coverage
-.env
 .DS_Store
-.vscode
 .idea
 package-lock.json
+docs/api
+config.bat
